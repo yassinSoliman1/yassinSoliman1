@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Yassin — AI Automation Engineer</title>
+  <desc id="desc">A navy banner with teal workflow nodes. Python, APIs, AI. Learning in public.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220" />
+      <stop offset="1" stop-color="#152c3b" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#cbd5e1" stroke-opacity=".04" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)" />
+  <rect width="1200" height="320" rx="20" fill="url(#grid)" />
+  <rect x="64" y="58" width="42" height="4" rx="2" fill="#5eead4" />
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="64" y="116" font-size="20" letter-spacing="4" fill="#5eead4">YASSIN</text>
+    <text x="64" y="178" font-size="46" font-weight="700" fill="#f8fafc">AI Automation Engineer</text>
+    <text x="66" y="222" font-size="20" fill="#cbd5e1">Python · APIs · AI</text>
+    <text x="66" y="274" font-size="16" fill="#94a3b8">LEARNING IN PUBLIC / BUILDING WITH PURPOSE</text>
+  </g>
+  <g fill="none" stroke="#5eead4" stroke-width="2">
+    <path d="M888 105H963V160H1080M888 215H963V160" stroke-opacity=".55" />
+    <rect x="852" y="78" width="72" height="54" rx="12" fill="#132937" />
+    <rect x="852" y="188" width="72" height="54" rx="12" fill="#132937" />
+    <rect x="1044" y="133" width="72" height="54" rx="12" fill="#132937" />
+    <circle cx="963" cy="160" r="7" fill="#5eead4" />
+    <path d="m879 95-10 10 10 10m18-20 10 10-10 10M875 207h26m-26 8h18m-18 8h22M1066 160l10 10 18-20" />
+  </g>
+</svg>
