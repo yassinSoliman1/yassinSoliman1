@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Yassin | AI Automation Engineer | Learning in public" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Yassin | AI Engineer &amp; AI Automation Engineer | Learning in public" width="100%" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## Hi, I'm Yassin
 
-I'm building practical skills in **AI automation engineering**, starting with Python, API integrations, and small tools that make everyday tasks easier.
+I'm an **AI Engineer & AI Automation Engineer**, building practical skills through Python projects, AI integrations, and small tools that make everyday tasks easier.
 
 My current public work includes a command-line AI chat prototype, a weather API app, and Python utilities. I use this GitHub to share code and document my progress as I develop more complete automation projects.
 
