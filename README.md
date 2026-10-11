@@ -28,6 +28,14 @@ My current public work includes a command-line AI chat prototype, a weather API 
 
 These are technologies used in my current code. The projects are learning exercises and prototypes, and my portfolio is still growing.
 
+## Certificates and training
+
+- **Advanced Data Science — TechTrek:** 120 hours of online training, July–September 2026.
+- **Cyber Security — BUE School of Continuing Education:** certificate of attendance, 20 hours, August 2026.
+- **Cyber Security Summer Training — IMPACT:** completion letter, August 2026 (25 hours stated in the letter).
+
+[View certificates and supporting documents](certificates/README.md)
+
 ## Where I'm heading
 
 - Turn small scripts into useful automation workflows.
