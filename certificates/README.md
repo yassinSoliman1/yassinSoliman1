@@ -10,12 +10,12 @@
 
 - Certificate of Attendance from the School of Continuing Education and Faculty of Engineering, in collaboration with IMPACT.
 - 20 hours, 23–27 August 2026.
-- [View scanned certificate](BUE_Cyber_Security_Attendance.pdf).
+- [View scanned certificate](BUE_Cyber_Security_Attendance.pdf) · [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7515062168233594880/).
 
 ## Cyber Security Summer Training — IMPACT
 
 - Completion letter from IMPACT for Science and Technology, referring to training in cooperation with the British University in Egypt's School of Continuing Education.
 - August 2026; the letter states 25 training hours.
-- [View scanned completion letter](IMPACT_Cyber_Security_Training.pdf).
+- [View scanned completion letter](IMPACT_Cyber_Security_Training.pdf) · [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7515062832938332160/).
 
 The BUE attendance certificate and IMPACT letter document cybersecurity training from August 2026. Their stated hours are recorded separately and are not added together.
